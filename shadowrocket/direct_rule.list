@@ -3,7 +3,7 @@
 DOMAIN-SUFFIX,beeline.ru
 DOMAIN-SUFFIX,megafon.ru
 DOMAIN-KEYWORD,emotion,DIRECT # Мегафон Мультифон бизнес
-DOMAIN-SUFFIX,megalabs.ru, DIRECT # emotion.megalabs.ru:443 TCP Stream
+DOMAIN-SUFFIX,megalabs.ru,DIRECT # emotion.megalabs.ru:443 TCP Stream
 DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,rostelecom.ru,DIRECT
 DOMAIN-SUFFIX,t2.ru,DIRECT
