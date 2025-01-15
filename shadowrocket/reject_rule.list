@@ -1,20 +1,22 @@
 #block domain and ip
 #REJECT-DROP
 #URL https://raw.githubusercontent.com/d0t0ne/d0t0ne.github.io/refs/heads/main/shadowrocket/config_01.conf
+#
 DOMAIN-SUFFIX,ru.tracker-api.my.com
 DOMAIN-SUFFIX,sndsy.ru
-DOMAIN-SUFFIX,*.phoneimg.com
-DOMAIN-SUFFIX,*.mindbox.ru # ads
-DOMAIN-SUFFIX,api.mindbox.ru # ads
-DOMAIN-SUFFIX,popmechanic.ru # ads mindbox.ru
-DOMAIN-SUFFIX,ad.adriver.ru # ads
-DOMAIN-SUFFIX,top100.ru # ads
-DOMAIN-SUFFIX,insales-cdn.com # ads
-DOMAIN-SUFFIX,d-cd.net # ads
-DOMAIN-SUFFIX,appmetrica.yandex.net # ads
-DOMAIN,appmetrica.yandex.net # ads
-DOMAIN-KEYWORD,appmetrica # ads appmetrica.yandex.net
-DOMAIN-SUFFIX,ads.adfox.ru # ads
+DOMAIN-SUFFIX,phoneimg.com
+DOMAIN-SUFFIX,mindbox.ru
+DOMAIN-SUFFIX,api.mindbox.ru
+DOMAIN-KEYWORD,mindbox
+DOMAIN-SUFFIX,popmechanic.ru
+DOMAIN-SUFFIX,ad.adriver.ru
+DOMAIN-SUFFIX,top100.ru
+DOMAIN-SUFFIX,insales-cdn.com
+DOMAIN-SUFFIX,d-cd.net
+DOMAIN-SUFFIX,appmetrica.yandex.net
+DOMAIN,appmetrica.yandex.net
+DOMAIN-KEYWORD,appmetrica
+DOMAIN-SUFFIX,ads.adfox.ru
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,launches.appsflyersdk.com
 DOMAIN-SUFFIX,report.appmetrica.yandex.net
