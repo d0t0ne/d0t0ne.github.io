@@ -1,3 +1,8 @@
+#block domain and ip
 DOMAIN-SUFFIX,ru.tracker-api.my.com
 DOMAIN-SUFFIX,sndsy.ru
+DOMAIN-SUFFIX,phoneimg.com
+#
+#
+#
 IP-CIDR,185.231.50.0/23,no-resolve #sndsy.ru
