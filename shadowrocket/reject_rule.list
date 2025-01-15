@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,appmetrica.yandex.net
 DOMAIN,appmetrica.yandex.net
 DOMAIN-KEYWORD,appmetrica
 DOMAIN-SUFFIX,ads.adfox.ru
-DOMAIN-SUFFIX,app-analytics-services.com
+# DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,launches.appsflyersdk.com
 DOMAIN-SUFFIX,report.appmetrica.yandex.net
 DOMAIN-SUFFIX,fcmtoken.googleapis.com
