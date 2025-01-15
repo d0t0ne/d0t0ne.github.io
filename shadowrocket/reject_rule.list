@@ -21,6 +21,8 @@ DOMAIN-SUFFIX,ads.adfox.ru
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,launches.appsflyersdk.com
 DOMAIN-SUFFIX,report.appmetrica.yandex.net
+DOMAIN-SUFFIX,fcmtoken.googleapis.com
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
 #
 #
 #
