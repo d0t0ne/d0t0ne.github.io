@@ -23,7 +23,7 @@ DOMAIN-SUFFIX,launches.appsflyersdk.com
 DOMAIN-SUFFIX,report.appmetrica.yandex.net
 DOMAIN-SUFFIX,fcmtoken.googleapis.com
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
-DOMAIN-SUFFIX,fbm10j-launches.appsflyersdk.com
+# DOMAIN-SUFFIX,fbm10j-launches.appsflyersdk.com
 # ? loymax.ivoin.ru
 #
 #
