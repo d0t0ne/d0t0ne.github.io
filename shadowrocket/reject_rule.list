@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,ru.tracker-api.my.com
 DOMAIN-SUFFIX,sndsy.ru
 DOMAIN-SUFFIX,phoneimg.com
 DOMAIN-SUFFIX,*.mindbox.ru # ads персонализация рекламы
+DOMAIN-SUFFIX,api.mindbox.ru #
 DOMAIN-SUFFIX,popmechanic.ru # ads mindbox.ru
 DOMAIN-SUFFIX,adriver.ru # ads
 DOMAIN-SUFFIX,top100.ru # ads
