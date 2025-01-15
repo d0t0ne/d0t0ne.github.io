@@ -12,9 +12,12 @@ DOMAIN-SUFFIX,top100.ru # ads
 DOMAIN-SUFFIX,insales-cdn.com # ads
 DOMAIN-SUFFIX,d-cd.net # ads
 DOMAIN-SUFFIX,appmetrica.yandex.net # ads
-DOMAIN,*.appmetrica.yandex.net # ads
+DOMAIN,appmetrica.yandex.net # ads
 DOMAIN-KEYWORD,appmetrica # ads appmetrica.yandex.net
 DOMAIN-SUFFIX,ads.adfox.ru # ads
+DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,launches.appsflyersdk.com
+DOMAIN-SUFFIX,report.appmetrica.yandex.net
 #
 #
 #
