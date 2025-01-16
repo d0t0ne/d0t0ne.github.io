@@ -2,9 +2,10 @@
 #REJECT-DROP
 REJECT-DROP
 #URL https://raw.githubusercontent.com/d0t0ne/d0t0ne.github.io/refs/heads/main/shadowrocket/config_01.conf
-#
+#security
 DOMAIN-SUFFIX,ru.tracker-api.my.com
 DOMAIN-SUFFIX,sndsy.ru
+#advertisement
 DOMAIN-SUFFIX,phoneimg.com
 DOMAIN-SUFFIX,popmechanic.ru
 DOMAIN-SUFFIX,ad.adriver.ru
@@ -13,6 +14,22 @@ DOMAIN-SUFFIX,insales-cdn.com
 DOMAIN-SUFFIX,d-cd.net
 DOMAIN-SUFFIX,i91.ru
 DOMAIN-SUFFIX,mobile.yandexadexchange.net
+#
+#test rule
+DOMAIN-SUFFIX,ad.mail.ru
+DOMAIN-SUFFIX,ads.adfox.ru
+DOMAIN-SUFFIX,banners.adfox.ru
+DOMAIN-SUFFIX,avatars.mds.yandex.net
+DOMAIN-SUFFIX,an.yandex.ru
+DOMAIN-SUFFIX,forms.yandex.ru
+DOMAIN-KEYWORD,yandexmetrica
+DOMAIN-SUFFIX,avatars.mds.yandex.net
+DOMAIN-SUFFIX,mc.yandex.ru
+DOMAIN-SUFFIX,ymetrica1.com
+DOMAIN-SUFFIX,favicon.yandex.net
+DOMAIN-SUFFIX,yastatic.net
+DOMAIN-SUFFIX,mc.yandex.com
+#
 #
 #
 #
