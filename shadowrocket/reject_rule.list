@@ -1,7 +1,6 @@
 #block domain and ip
 #REJECT-DROP
 REJECT-DROP
-#URL https://raw.githubusercontent.com/d0t0ne/d0t0ne.github.io/refs/heads/main/shadowrocket/config_01.conf
 #security
 DOMAIN-SUFFIX,ru.tracker-api.my.com
 DOMAIN-SUFFIX,sndsy.ru
@@ -33,6 +32,7 @@ DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,mc.yandex.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,dcounter.rambler.ru
+DOMAIN-SUFFIX,aemetrics.aliexpress.ru
 #
 #
 #
