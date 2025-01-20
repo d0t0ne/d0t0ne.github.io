@@ -28,7 +28,7 @@ DOMAIN-SUFFIX,avatars.mds.yandex.net
 DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,ymetrica1.com
 DOMAIN-SUFFIX,favicon.yandex.net
-DOMAIN-SUFFIX,yastatic.net
+#DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,mc.yandex.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,dcounter.rambler.ru
