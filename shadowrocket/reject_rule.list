@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,banners.adfox.ru
 DOMAIN-SUFFIX,an.yandex.ru
 DOMAIN-SUFFIX,forms.yandex.ru
 DOMAIN-KEYWORD,yandexmetrica
-DOMAIN-SUFFIX,avatars.mds.yandex.net
+#DOMAIN-SUFFIX,avatars.mds.yandex.net
 #DOMAIN-SUFFIX,rosenberg.appmetrica.yandex.net
 #DOMAIN-KEYWORD,appmetrica.yandex
 #DOMAIN-SUFFIX,mc.yandex.ru
