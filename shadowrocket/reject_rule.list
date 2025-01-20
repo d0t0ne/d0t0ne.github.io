@@ -25,7 +25,7 @@ DOMAIN-KEYWORD,yandexmetrica
 DOMAIN-SUFFIX,avatars.mds.yandex.net
 #DOMAIN-SUFFIX,rosenberg.appmetrica.yandex.net
 #DOMAIN-KEYWORD,appmetrica.yandex
-DOMAIN-SUFFIX,mc.yandex.ru
+#DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,ymetrica1.com
 DOMAIN-SUFFIX,favicon.yandex.net
 #DOMAIN-SUFFIX,yastatic.net
