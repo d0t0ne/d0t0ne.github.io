@@ -1,8 +1,4 @@
-DOMAIN-SUFFIX,mobile-performance-develop.dev.aliexpress.ru
-DOMAIN-SUFFIX,st.aestatic.net
-DOMAIN-SUFFIX,h-adashx4ae.ut.taobao.com
-DOMAIN-SUFFIX,amdc.aliexpress.com
-DOMAIN-SUFFIX,acs.m.taobao.com
-DOMAIN-SUFFIX,orange-dc.alibaba.com
-DOMAIN-SUFFIX,msg-global.m.taobao.com
-DOMAIN-SUFFIX,59.82.122.112
+DOMAIN-KEYWORD,aliexpress
+DOMAIN-KEYWORD,taobao
+DOMAIN-KEYWORD,alibaba
+DOMAIN,st.aestatic.net
