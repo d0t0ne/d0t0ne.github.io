@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,mobile.yandexadexchange.net
 DOMAIN-SUFFIX,ad.mail.ru
 DOMAIN-SUFFIX,ads.adfox.ru
 DOMAIN-SUFFIX,banners.adfox.ru
-DOMAIN-SUFFIX,avatars.mds.yandex.net
+#DOMAIN-SUFFIX,avatars.mds.yandex.net
 DOMAIN-SUFFIX,an.yandex.ru
 DOMAIN-SUFFIX,forms.yandex.ru
 DOMAIN-KEYWORD,yandexmetrica
