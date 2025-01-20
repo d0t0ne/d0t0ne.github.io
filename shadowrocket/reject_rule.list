@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,mobile.yandexadexchange.net
 #
 #test rule
 DOMAIN-SUFFIX,ad.mail.ru
-DOMAIN-SUFFIX,ads.adfox.ru
+#DOMAIN-SUFFIX,ads.adfox.ru
 DOMAIN-SUFFIX,banners.adfox.ru
 #DOMAIN-SUFFIX,avatars.mds.yandex.net
 DOMAIN-SUFFIX,an.yandex.ru
