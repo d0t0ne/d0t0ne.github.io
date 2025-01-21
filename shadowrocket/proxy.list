@@ -1,0 +1,3 @@
+##ru-out to-proxy
+DOMAIN-SUFFIX,imap.mail.yahoo.com #excludedall
+DOMAIN-SUFFIX,imap.aol.com #excludedall
