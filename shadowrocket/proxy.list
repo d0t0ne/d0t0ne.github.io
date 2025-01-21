@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,imap.aol.com #excludedall
 DOMAIN-SUFFIX,app.tuta.com
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,graph.facebook.com # ecxl mini freez for instagram and facebook 
